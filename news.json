@@ -3,6 +3,30 @@
     {
       "id": "62d7f0c1a2b3c4d5e6f70300",
       "cmsLocaleId": null,
+      "lastPublished": "2023-02-02T10:00:00.000Z",
+      "lastUpdated": "2023-02-02T10:00:00.000Z",
+      "createdOn": "2023-02-02T10:00:00.000Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "image": {
+          "fileId": "62d7f0c1a2b3c4d5e6f70310",
+          "url": "https://www.hopsworks.ai/images/news/ext-hopsworks-3-1-product-updates-feature-store-ui-improvements.png",
+          "alt": "Hopsworks 3.1 Product Updates: Feature Store & UI Improvements"
+        },
+        "enterprise": true,
+        "serverless": true,
+        "time": "2023-02-02",
+        "label": "Product Updates",
+        "name": "Hopsworks 3.1 Product Updates: Feature Store & UI Improvements",
+        "text": "<p>Read about Hopsworks 3.1 and the new improvements in the feature store (time-series splits for training data, support for managing thousands of models), stability and user-interface.</p>",
+        "link": "https://www.hopsworks.ai/post/hopsworks-3-1-product-updates",
+        "slug": "hopsworks-3-1-product-updates"
+      }
+    },
+    {
+      "id": "62d7f0c1a2b3c4d5e6f70301",
+      "cmsLocaleId": null,
       "lastPublished": "2022-07-20T10:00:00.000Z",
       "lastUpdated": "2022-07-20T10:00:00.000Z",
       "createdOn": "2022-07-20T10:00:00.000Z",
@@ -10,20 +34,48 @@
       "isDraft": false,
       "fieldData": {
         "image": {
-          "fileId": "62d7f0c1a2b3c4d5e6f70301",
+          "fileId": "62d7f0c1a2b3c4d5e6f70311",
           "url": "https://www.hopsworks.ai/images/news/ext-hopsworks-3-0-connecting-python-to-the-modern-data-stack.jpg",
-          "alt": "Hopsworks 3.0"
+          "alt": "Hopsworks 3.0 - Connecting Python to the Modern Data Stack"
         },
         "enterprise": true,
         "serverless": true,
         "time": "2022-07-20",
         "label": "Product Updates",
         "name": "Hopsworks 3.0 - Connecting Python to the Modern Data Stack",
-        "text": "<p>Hopsworks 3.0 is a new release focused on best-in-class Python support, Feature Views unifying Offline and Online read APIs to the Feature Store, Great Expectations support, KServe and a Model serving.</p>",
+        "text": "<p>Hopsworks 3.0 is a new release focused on best-in-class Python support, Feature Views unifying Offline and Online read APIs to the Feature Store, Great Expectations support, KServe and a Model serving</p>",
         "link": "https://www.hopsworks.ai/post/hopsworks-3-0-connecting-python-to-the-modern-data-stack",
         "slug": "hopsworks-3-0-connecting-python-to-the-modern-data-stack"
       }
+    },
+    {
+      "id": "62d7f0c1a2b3c4d5e6f70302",
+      "cmsLocaleId": null,
+      "lastPublished": "2022-03-04T10:00:00.000Z",
+      "lastUpdated": "2022-03-04T10:00:00.000Z",
+      "createdOn": "2022-03-04T10:00:00.000Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "image": {
+          "fileId": "62d7f0c1a2b3c4d5e6f70312",
+          "url": "https://www.hopsworks.ai/images/news/ext-hopsworks-2-5-product-updates-collaboration-scalability.png",
+          "alt": "Hopsworks 2.5 Product Updates: Collaboration & Scalability"
+        },
+        "enterprise": true,
+        "serverless": true,
+        "time": "2022-03-04",
+        "label": "Product Updates",
+        "name": "Hopsworks 2.5 Product Updates: Collaboration & Scalability",
+        "text": "<p>We go through the new features and developments in Hopsworks 2.5 that will benefit open-source users and customers alike.</p>",
+        "link": "https://www.hopsworks.ai/post/hopsworks-2-5-product-updates",
+        "slug": "hopsworks-2-5-product-updates"
+      }
     }
   ],
-  "pagination": { "limit": 2, "offset": 0, "total": 1 }
+  "pagination": {
+    "limit": 2,
+    "offset": 0,
+    "total": 3
+  }
 }
