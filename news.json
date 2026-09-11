@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": "62d7f0c1a2b3c4d5e6f70300",
+      "cmsLocaleId": null,
+      "lastPublished": "2022-07-20T10:00:00.000Z",
+      "lastUpdated": "2022-07-20T10:00:00.000Z",
+      "createdOn": "2022-07-20T10:00:00.000Z",
+      "isArchived": false,
+      "isDraft": false,
+      "fieldData": {
+        "image": {
+          "fileId": "62d7f0c1a2b3c4d5e6f70301",
+          "url": "https://www.hopsworks.ai/images/news/ext-hopsworks-3-0-connecting-python-to-the-modern-data-stack.jpg",
+          "alt": "Hopsworks 3.0"
+        },
+        "enterprise": true,
+        "serverless": true,
+        "time": "2022-07-20",
+        "label": "Product Updates",
+        "name": "Hopsworks 3.0 - Connecting Python to the Modern Data Stack",
+        "text": "<p>Hopsworks 3.0 is a new release focused on best-in-class Python support, Feature Views unifying Offline and Online read APIs to the Feature Store, Great Expectations support, KServe and a Model serving.</p>",
+        "link": "https://www.hopsworks.ai/post/hopsworks-3-0-connecting-python-to-the-modern-data-stack",
+        "slug": "hopsworks-3-0-connecting-python-to-the-modern-data-stack"
+      }
+    }
+  ],
+  "pagination": { "limit": 2, "offset": 0, "total": 1 }
+}
